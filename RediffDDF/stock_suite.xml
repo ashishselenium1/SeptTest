@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Stock Management Suite" parallel="tests">
+  <test name="Add Stock Test">
+    <classes>
+      <class name="testcases.suite.stock.AddStockTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

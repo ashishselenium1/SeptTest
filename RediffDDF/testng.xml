@@ -1,0 +1,8 @@
+<suite name="Rediff Project" >
+
+  <suite-files>
+   <suite-file path="./portfolio_suite.xml" />
+   <suite-file path="./stock_suite.xml" />
+   
+  </suite-files>
+</suite>

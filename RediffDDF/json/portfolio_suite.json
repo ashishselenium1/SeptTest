@@ -1,0 +1,88 @@
+{
+"testcases": [
+{
+  "testname": "Create Portfolio Test",
+  "testdatasets": [
+    {
+      "data": [
+        {
+          "parametername": "Runmode",
+          "parametervalue": "Y"
+        },
+        {
+          "parametername": "Browser",
+          "parametervalue": "Chrome"
+        },
+        {
+          "parametername": "PortfolioName",
+          "parametervalue": "Portfolio29292"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "parametername": "Runmode",
+          "parametervalue": "N"
+        },
+        {
+          "parametername": "Browser",
+          "parametervalue": "Mozilla"
+        },
+        {
+          "parametername": "PortfolioName",
+          "parametervalue": "Portfolio981918"
+        }
+      ]
+    },
+    ,
+    {
+      "data": [
+        {
+          "parametername": "Runmode",
+          "parametervalue": "N"
+        },
+        {
+          "parametername": "Browser",
+          "parametervalue": "Edge"
+        },
+        {
+          "parametername": "PortfolioName",
+          "parametervalue": "Portfolio13422"
+        }
+      ]
+    }
+  ]
+},
+{
+  "testname": "Delete Portfolio Test",
+  "testdatasets": [
+    {
+      "data": [
+        {
+          "parametername": "Runmode",
+          "parametervalue": "Y"
+        },
+        {
+          "parametername": "PortfolioName",
+          "parametervalue": "Portfolio29292"
+        }
+      ]
+    },
+     {
+      "data": [
+        {
+          "parametername": "Runmode",
+          "parametervalue": "N"
+        },
+        {
+          "parametername": "PortfolioName",
+          "parametervalue": "Portfolio1111"
+        }
+      ]
+    }
+    
+  ]
+}
+]
+}

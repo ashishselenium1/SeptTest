@@ -1,0 +1,19 @@
+{
+	"name": "Tim",
+	"college": "x college",
+	"subject": ["Maths", "Art", "History"],
+	"scores": [
+	    {
+			"subjectname": "Maths",
+			"score": "1000"
+		},
+		{
+			"subjectname": "Art",
+			"score": "2000"
+		},
+		{
+			"subjectname": "History",
+			"score": "3000"
+		}
+	]
+}

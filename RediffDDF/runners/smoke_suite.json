@@ -1,0 +1,20 @@
+{
+
+"testsuite":{
+     "name":"Smoke Suite",
+     "browsers":["chrome","firefox"],
+     "testcases":[
+      {
+      	"testname":"Create Portfolio Test",
+      	"classname":"testcases.suite.portfolio.CreatePortfolioTest"
+      },
+      {
+      	"testname":"Add Stock Test",
+      	"classname":"testcases.suite.stock.AddStockTest"
+      }
+     
+     ]
+
+     }
+
+}

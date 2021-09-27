@@ -1,0 +1,12 @@
+{
+"runmodes":[
+	{
+	"name":"Create Portfolio Test",
+	"runmode":"Y"
+	},
+	{
+	"name":"Delete Portfolio Test",
+	"runmode":"N"
+	}
+]
+}
