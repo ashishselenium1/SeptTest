@@ -2,12 +2,12 @@
 <testng-results skipped="2" failed="0" ignored="0" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Stock Management Suite" duration-ms="1248" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:43 IST">
+  <suite name="Stock Management Suite" duration-ms="1115" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:53 IST">
     <groups>
     </groups>
-    <test name="Add Stock Test" duration-ms="1248" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:43 IST">
+    <test name="Add Stock Test" duration-ms="1115" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:53 IST">
       <class name="testcases.suite.stock.AddStockTest">
-        <test-method status="PASS" signature="befTest(org.testng.ITestContext)[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="befTest" is-config="true" duration-ms="23" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:41 IST">
+        <test-method status="PASS" signature="befTest(org.testng.ITestContext)[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="befTest" is-config="true" duration-ms="20" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:52 IST">
           <params>
             <param index="0">
               <value>
@@ -18,50 +18,50 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- befTest -->
-        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="init" is-config="true" duration-ms="442" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:42 IST">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="init" is-config="true" duration-ms="253" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="addStockTest()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="addStockTest" duration-ms="0" started-at="2021-09-27T13:04:42 IST" finished-at="2021-09-27T13:04:42 IST">
+        <test-method status="PASS" signature="addStockTest()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="addStockTest" duration-ms="0" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addStockTest -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="quit" is-config="true" duration-ms="735" started-at="2021-09-27T13:04:42 IST" finished-at="2021-09-27T13:04:43 IST">
+        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="quit" is-config="true" duration-ms="795" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="endSession()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="endSession" is-config="true" duration-ms="4" started-at="2021-09-27T13:04:43 IST" finished-at="2021-09-27T13:04:43 IST">
+        <test-method status="PASS" signature="endSession()[pri:0, instance:testcases.suite.stock.AddStockTest@158d2680]" name="endSession" is-config="true" duration-ms="1" started-at="2021-09-27T13:15:53 IST" finished-at="2021-09-27T13:15:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endSession -->
       </class> <!-- testcases.suite.stock.AddStockTest -->
     </test> <!-- Add Stock Test -->
   </suite> <!-- Stock Management Suite -->
-  <suite name="Portfolio Suite" duration-ms="11266" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:53 IST">
+  <suite name="Portfolio Suite" duration-ms="10829" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:16:03 IST">
     <groups>
     </groups>
-    <test name="Create Portfolio Test" duration-ms="11266" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:53 IST">
+    <test name="Create Portfolio Test" duration-ms="10829" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:16:03 IST">
       <class name="testcases.suite.portfolio.CreatePortfolioTest">
-        <test-method status="PASS" signature="befTest(org.testng.ITestContext)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="befTest" is-config="true" duration-ms="25" started-at="2021-09-27T13:04:41 IST" finished-at="2021-09-27T13:04:41 IST">
+        <test-method status="PASS" signature="befTest(org.testng.ITestContext)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="befTest" is-config="true" duration-ms="19" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:52 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3e1bab27]]>
+                <![CDATA[org.testng.TestRunner@72ffd92]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- befTest -->
-        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="9" started-at="2021-09-27T13:04:42 IST" finished-at="2021-09-27T13:04:42 IST">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="10" started-at="2021-09-27T13:15:52 IST" finished-at="2021-09-27T13:15:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="11038" started-at="2021-09-27T13:04:42 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="10613" started-at="2021-09-27T13:15:52 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:16:03 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3e1bab27]]>
+                <![CDATA[org.testng.TestRunner@72ffd92]]>
               </value>
             </param>
             <param index="1">
@@ -73,19 +73,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolio -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="20" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="19" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="0" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="0" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="SKIP" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="1" started-at="2021-09-27T13:04:53 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="SKIP" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="1" started-at="2021-09-27T13:16:03 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:16:03 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3e1bab27]]>
+                <![CDATA[org.testng.TestRunner@72ffd92]]>
               </value>
             </param>
             <param index="1">
@@ -131,19 +131,19 @@ at java.lang.Thread.run(Thread.java:748)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolio -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="23" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="29" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="0" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="init" is-config="true" duration-ms="1" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="SKIP" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="1" started-at="2021-09-27T13:04:53 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="SKIP" signature="createPortFolio(org.testng.ITestContext, java.util.Map)[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="createPortFolio" duration-ms="2" started-at="2021-09-27T13:16:03 IST" data-provider="portFolioSuite" finished-at="2021-09-27T13:16:03 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3e1bab27]]>
+                <![CDATA[org.testng.TestRunner@72ffd92]]>
               </value>
             </param>
             <param index="1">
@@ -189,11 +189,11 @@ at java.lang.Thread.run(Thread.java:748)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPortFolio -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="17" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="quit()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="quit" is-config="true" duration-ms="22" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="endSession()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="endSession" is-config="true" duration-ms="0" started-at="2021-09-27T13:04:53 IST" finished-at="2021-09-27T13:04:53 IST">
+        <test-method status="PASS" signature="endSession()[pri:0, instance:testcases.suite.portfolio.CreatePortfolioTest@6e171cd7]" name="endSession" is-config="true" duration-ms="0" started-at="2021-09-27T13:16:03 IST" finished-at="2021-09-27T13:16:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endSession -->
